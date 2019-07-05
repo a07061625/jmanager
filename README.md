@@ -19,4 +19,3 @@ go get github.com/PuerkitoBio/goquery //爬虫选择器
 
 # 使用
 # 资源
-https://github.com/snail007/goproxy
